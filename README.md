@@ -31,6 +31,7 @@ Para comprender en profundidad las fases de desarrollo, decisiones de arquitectu
 - [🚀 Instalación y Uso Local](#-instalación-y-uso-local)
 - [💾 Siembra de Datos de Prueba (Seed)](#-siembra-de-datos-de-prueba-seed)
 - [☁️ Despliegue Serverless en Netlify](#️-despliegue-serverless-en-netlify)
+- [🤝 Guía de Colaboración (Contributing)](#-guía-de-colaboración)
 
 ---
 
@@ -158,3 +159,10 @@ Este repositorio viene preconfigurado para ejecutarse en la infraestructura de N
 2. **Conexión en Netlify:** Importa tu repositorio desde GitHub a Netlify.
 3. **Variables de Entorno:** Configura los secretos en *Site Settings > Environment Variables* en Netlify con las credenciales de tu base de datos cloud y tu `JWT_SECRET`.
 4. El archivo `netlify.toml` redirigirá todas las peticiones a la función serverless de Express de manera invisible para el cliente.
+
+---
+
+## 🤝 Guía de Colaboración
+
+¡Te invitamos a colaborar en el desarrollo de este proyecto! Si deseas reportar errores, sugerir mejoras o enviar código de forma ordenada, consulta nuestra guía detallada para colaboradores:
+👉 **[Guía de Colaboración (CONTRIBUTING.md)](CONTRIBUTING.md)**
