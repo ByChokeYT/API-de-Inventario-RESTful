@@ -18,6 +18,12 @@ Adicionalmente, incorpora un **Dashboard de Administración (SPA)** de diseño m
 
 ---
 
+## 📖 Guía de Desarrollo y Arquitectura
+Para comprender en profundidad las fases de desarrollo, decisiones de arquitectura y la lógica de control de este proyecto, revisa el siguiente documento:
+👉 **[Guía de Elaboración Paso a Paso (Elaboración)](ELABORACION.md)**
+
+---
+
 ## 🧭 Tabla de Contenidos
 - [✨ Características Principales](#-características-principales)
 - [📂 Estructura del Proyecto (MVC)](#-estructura-del-proyecto-mvc)
